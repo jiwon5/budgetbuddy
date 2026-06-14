@@ -2,6 +2,10 @@
 
 수입과 지출을 한눈에 정리하고, 월별 예산과 저축 목표까지 함께 관리하는 개인 가계부 앱
 
+## 데모 영상
+
+[BudgetBuddy 앱 시연 영상](https://youtube.com/shorts/lT79tK9ngaQ)
+
 ## 프로젝트 개요
 
 BudgetBuddy는 매일의 소비 내역을 기록하고 월별 예산 흐름을 확인할 수 있도록 만든 iOS 가계부 앱이에요.
